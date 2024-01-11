@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-starting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node src/mongo.js",
+    "rocky": "nodemon src/mongo.js",
+    "server1": "node src/mongo1.js",
+    "server2": "node src/Exercise1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

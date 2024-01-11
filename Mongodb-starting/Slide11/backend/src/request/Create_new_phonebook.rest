@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/phonebooks HTTP/1.1
+Content-Type: application/json
+
+{
+    "name1":"abcd",
+    "number1":12345567880,
+    "name2":"efgh",
+    "number2":7554321890
+}

@@ -1,0 +1,1 @@
+mongodb+srv://grocky236:<rocky@123#>@cluster0.memelwn.mongodb.net/?retryWrites=true&w=majority

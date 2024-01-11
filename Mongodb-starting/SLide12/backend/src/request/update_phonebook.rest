@@ -1,0 +1,9 @@
+PUT http://localhost:3002/api/phonebooks/6598ed6838884bd7bc49f12e HTTP/1.1
+Content-Type: application/json
+
+{
+    "name1":"Rahul",
+    "number1":"67-54213223",
+    "name2":"punit",
+    "number2":"543-2546760"
+}

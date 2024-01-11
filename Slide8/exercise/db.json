@@ -1,0 +1,18 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "This is my first note",
+      "body": "This is my first body",
+      "number": "040-1123456",
+      "important": true
+    },
+    {
+      "id": "2",
+      "title": "This is my second note",
+      "body": "This is my second body",
+      "number": "39-44-5323523",
+      "important": false
+    }
+  ]
+}
