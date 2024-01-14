@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/65a3780e6bba158610b24cb2
+Content-Type: application/json
+
+{
+     "title": "Apple Outclasses ChatGPT with Ferret",
+    "author": "Ignacio de Gregorio",
+    "url":"https://medium.com/@ignacio.de.gregorio.noblejas",
+    "likes":45
+}
